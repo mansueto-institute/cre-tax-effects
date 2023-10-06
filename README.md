@@ -1,5 +1,4 @@
-# Estimating tax effects from reductions in Commercial Real Estate in downtown Chicago
-
+# Estimating tax effects of downtown CRE value declines
 This repository contains code, data, and output files for estimating the tax effect on Chicago residents from reductions in downtown CRE.
 
 **Software tools:** The analysis utilized to the R package [PTAXSIM](https://github.com/ccao-data/ptaxsim/) developed by the data team in the Cook County Assessor's Office to estimate the effect of reductions in downtown Commercial Real Estate values on tax bills in Chicago. The basic workflow was based on the code vignette available [here](https://ccao-data.github.io/ptaxsim/articles/reassessment.html#future-reassessments). The database linked [here](https://github.com/ccao-data/ptaxsim/#ptaxsim) is a data dependency for the code in this repo.
