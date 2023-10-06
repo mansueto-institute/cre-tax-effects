@@ -11,7 +11,7 @@ Reductions in commercial real estate value ranging from 10 to 40% are based on t
 **Projected levies:**
 The two largest sources of property taxes in Chicago is the City and CPS. To take into account the anticipated levy we based our levy estimates on the proposed city and CPS budgets for 2024, however for other agencies such as the Park district, Library, or Water reclamation we hold levies constant. Below we list the property tax revenues used to inform the forecasted levies for the City and CPS.
 
-1. Property tax revenue from [Chicago Department of Finance](https://www.chicago.gov/content/dam/city/depts/fin/supp_info/CAFR/2022CAFR/ACFR_2022.pdf#page=216)
+Property tax revenue from [Chicago Department of Finance](https://www.chicago.gov/content/dam/city/depts/fin/supp_info/CAFR/2022CAFR/ACFR_2022.pdf#page=216)
 
 | Year | City Budget                                                                                                                                                                                                                                                                                     |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ The two largest sources of property taxes in Chicago is the City and CPS. To tak
 | 2023 | $1,734,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/COFA_AnalysisOfAnnualProposedBudget_FY2023.pdf#page=5) and [here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/COFA_AnalysisOfAnnualProposedBudget_FY2023.pdf#page=5)) |
 | 2024 | $1,824,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/Presentations_ProposedBudget/Mid-Year-Budget-Forecast-COFA-Analysis.pdf#page=3))                                                                                                             |
 
-2. Property tax revenue from [Chicago Public Schools](https://www.cps.edu/about/finance/budget/)
+Property tax revenue from [Chicago Public Schools](https://www.cps.edu/about/finance/budget/)
 
 | Year | CPS Budget         |
 |------|----------------|
