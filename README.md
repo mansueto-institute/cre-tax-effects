@@ -1,10 +1,12 @@
 # Estimating property tax effects
 This repository contains code, data, and output files for estimating the tax effect on Chicago residents from reductions in downtown CRE.
 
+## Data and Tools
 **Software tools:** This repo uses the R package [PTAXSIM](https://github.com/ccao-data/ptaxsim/) developed by the data team in the Cook County Assessor's Office to estimate the effect of reductions in downtown Commercial Real Estate values on tax bills in Chicago. The basic workflow was based on the vignette available [here](https://ccao-data.github.io/ptaxsim/articles/reassessment.html#future-reassessments). The database linked [here](https://github.com/ccao-data/ptaxsim/#ptaxsim) is a data dependency for running PTAXSIM.
 
 **Geographic definitions:** The physical extent of "Downtown Chicago" used in this analysis is based on the [CBD delineation in the Chicago Data Portal](https://data.cityofchicago.org/api/geospatial/tksj-nvsw). The analysis is restricted to only estimating property tax bills for residents in the City of Chicago.
 
+## Methodological Assumptions 
 **Projected real estate values:**
 Reductions in commercial real estate value ranging from 10 to 40% are based on this [BCG report](https://www.bcg.com/publications/2023/countering-the-surge-of-zombie-buildings), which estimates a loss in building office value of $20-25 billion (35-45%) and a loss of annual rent revenue $2-3.5 billion (25-35%) in Chicago. We apply those decreases to the 2021 valuation level for all "multi-story office/retail" or "Commercial/industrial" (see table below) properties in the Chicago Downtown area to derive 2024 valuation estimates. Valuations of residential properties and property outside downtown are held constant in this analysis. 
 
