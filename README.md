@@ -11,9 +11,7 @@ This repository contains code, data, and output files for estimating the tax eff
 Reductions in commercial real estate value ranging from 10 to 40% are based on this [BCG report](https://www.bcg.com/publications/2023/countering-the-surge-of-zombie-buildings), which estimates a loss in building office value of $20-25 billion (35-45%) and a loss of annual rent revenue $2-3.5 billion (25-35%) in Chicago. We apply those decreases to the 2021 valuation level for all "multi-story office/retail" or "Commercial/industrial" (see table below) properties in the Chicago Downtown area to derive 2024 valuation estimates. Valuations of residential properties and property outside downtown are held constant in this analysis. 
 
 * **Projected levies:**
-The two largest sources of property taxes in Chicago is the City and CPS. To take into account the anticipated levy we based our levy estimates on the proposed city and CPS budgets for 2024, however for other agencies such as the Park district, Library, or Water reclamation we hold levies constant. Below we list the property tax revenues used to inform the forecasted levies for the City and CPS.
-
-Property tax revenue from [Chicago Department of Finance](https://www.chicago.gov/content/dam/city/depts/fin/supp_info/CAFR/2022CAFR/ACFR_2022.pdf#page=216)
+The two largest sources of property taxes in Chicago is the City and CPS. To take into account the anticipated levy we based our levy estimates on the proposed city and CPS budgets for 2024, however for other agencies such as the Park district, Library, or Water reclamation we hold levies constant. Below we list the property tax revenues used to inform the forecasted levies for the City and CPS. Data source for City property tax revenue was the [Chicago Department of Finance](https://www.chicago.gov/content/dam/city/depts/fin/supp_info/CAFR/2022CAFR/ACFR_2022.pdf#page=216) and the source for CPS tax revenue was found [here at cps.edu](https://www.cps.edu/about/finance/budget/).
 
 | Year | City Budget                                                                                                                                                                                                                                                                                     |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -24,8 +22,6 @@ Property tax revenue from [Chicago Department of Finance](https://www.chicago.go
 | 2022 | $1,709,390,000                                                                                                                                                                                                                                                                             |
 | 2023 | $1,734,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/COFA_AnalysisOfAnnualProposedBudget_FY2023.pdf#page=5) and [here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/COFA_AnalysisOfAnnualProposedBudget_FY2023.pdf#page=5)) |
 | 2024 | $1,824,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/Presentations_ProposedBudget/Mid-Year-Budget-Forecast-COFA-Analysis.pdf#page=3))                                                                                                             |
-
-Property tax revenue from [Chicago Public Schools](https://www.cps.edu/about/finance/budget/)
 
 | Year | CPS Budget         |
 |------|----------------|
