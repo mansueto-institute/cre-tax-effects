@@ -15,24 +15,14 @@ The two largest sources of property taxes in Chicago is the City and CPS. To tak
 
 <div align="center">
 
-| Year | City Budget                                                                                                                                                                                                                                                                                     |
-|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2018 | $1,446,971,000                                                                                                                                                                                                                                                                             |
-| 2019 | $1,514,102,000                                                                                                                                                                                                                                                                             |
-| 2020 | $1,539,811,000                                                                                                                                                                                                                                                                             |
-| 2021 | $1,633,162,000                                                                                                                                                                                                                                                                             |
-| 2022 | $1,709,390,000                                                                                                                                                                                                                                                                             |
-| 2023 | $1,734,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/COFA_AnalysisOfAnnualProposedBudget_FY2023.pdf#page=5) and [here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/COFA_AnalysisOfAnnualProposedBudget_FY2023.pdf#page=5)) |
-| 2024 | $1,824,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/Presentations_ProposedBudget/Mid-Year-Budget-Forecast-COFA-Analysis.pdf#page=3))                                                                                                             |
-
-| Year | CPS Budget         |
-|------|----------------|
-| 2019 | $2,984,300,000 |
-| 2020 | $3,134,500,000 |
-| 2021 | $3,264,912,413 |
-| 2022 | $3,374,173,082 |
-| 2023 | $3,685,311,455 |
-| 2024 | $3,816,007,845 |
+| Year | City Budget    | CPS Budget     |
+|------|----------------|----------------|
+| 2019 | $1,514,102,000 | $2,984,300,000 |
+| 2020 | $1,539,811,000 | $3,134,500,000 |
+| 2021 | $1,633,162,000 | $3,264,912,413 |
+| 2022 | $1,709,390,000 | $3,374,173,082 |
+| 2023 | $1,734,390,000 | $3,685,311,455 |
+| 2024 | $1,824,390,000 | $3,816,007,845 |
 
 </div>
 
