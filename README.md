@@ -1,4 +1,4 @@
-# Estimating property tax effects
+# Simulating property tax effects
 This repository contains code, data, and output files for estimating the tax effect on Chicago residents from reductions in downtown Commercial Real Estate (CRE) valuations. The data with the results from the analysis is [available here in a Google Sheet](https://docs.google.com/spreadsheets/d/11Ozi8vDcwv-JPPoxMITvCGoPYrW_K3BGpoIBrZkyCG0/).
 
 ## Tools and Data
