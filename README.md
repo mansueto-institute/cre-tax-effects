@@ -12,7 +12,8 @@ Reductions in commercial real estate value ranging from 10 to 40% are based on t
 The two largest sources of property taxes in Chicago is the City and CPS. To take into account the anticipated levy we based our levy estimates on the proposed city and CPS budgets for 2024, however for other agencies such as the Park district, Library, or Water reclamation we hold levies constant. Below we list the property tax revenues used to inform the forecasted levies for the City and CPS.
 
 * Property tax revenue from [Chicago Department of Finance](https://www.chicago.gov/content/dam/city/depts/fin/supp_info/CAFR/2022CAFR/ACFR_2022.pdf#page=216)
-2018 $1,446,971,000 
+
+> 2018 $1,446,971,000 
 2019 $1,514,102,000  
 2020 $1,539,811,000 
 2021 $1,633,162,000 
@@ -21,7 +22,8 @@ The two largest sources of property taxes in Chicago is the City and CPS. To tak
 2024 $1,824,390,000 ([see here](https://www.chicago.gov/content/dam/city/depts/COFA/ProposedBudget/Presentations_ProposedBudget/Mid-Year-Budget-Forecast-COFA-Analysis.pdf#page=3))
 
 * Property tax revenue from [Chicago Public Schools](https://www.cps.edu/about/finance/budget/)
-2019 $2,984,300,000
+
+> 2019 $2,984,300,000
 2020 $3,134,500,000
 2021 $3,264,912,413
 2022 $3,374,173,082
