@@ -8,7 +8,7 @@ This repository contains code, data, and output files for estimating the tax eff
 **Projected real estate values:**
 Reductions in commercial real estate value ranging from 10 to 40% are based on this [BCG report](https://www.bcg.com/publications/2023/countering-the-surge-of-zombie-buildings), which estimates a loss in building office value of $20-25 billion (35-45%) and a loss of annual rent revenue $2-3.5 billion (25-35%) in Chicago. We apply those decreases to the 2021 valuation level for all "multi-story office/retail" or "Commercial/industrial" (see table below) properties in the Chicago Downtown area to derive 2024 valuation estimates. Valuations of residential properties and property outside downtown are held constant in this analysis. 
 
-**Projected Levies:**
+**Projected levies:**
 The two largest sources of property taxes in Chicago is the City and CPS. To take into account the anticipated levy we based our levy estimates on the proposed city and CPS budgets for 2024, however for other agencies such as the Park district, Library, or Water reclamation we hold levies constant. Below we list the property tax revenues used to inform the forecasted levies for the City and CPS.
 
 Property tax revenue from [Chicago Department of Finance](https://www.chicago.gov/content/dam/city/depts/fin/supp_info/CAFR/2022CAFR/ACFR_2022.pdf#page=216)
@@ -28,8 +28,8 @@ Property tax revenue from [Chicago Public Schools](https://www.cps.edu/about/fin
 2023 $3,685,311,455
 2024 $3,816,007,845
 
-**Property Classes:**
-Property Class Dictionary available [here](https://prodassets.cookcountyassessor.com/s3fs-public/form_documents/classcode.pdf).
+**Property class definitions:**
+For ease of analysis we regrouped detailed property class codes into high level categories in our analysis (shown in the table below). For a detailed dictionary of property classes see the link [here](https://prodassets.cookcountyassessor.com/s3fs-public/form_documents/classcode.pdf).
 
 | Property grouping         | Class codes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
